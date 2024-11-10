@@ -7,7 +7,7 @@
 Audiophile is a modern e-commerce website designed for audio enthusiasts. This project showcases a sleek and user-friendly interface for browsing and purchasing high-quality audio equipment.
 
 ## Features
-
+ 
 - Clean and minimalist design
 - Responsive layout for various screen sizes
 - Product categorization (Headphones, Speakers, Earphones)
